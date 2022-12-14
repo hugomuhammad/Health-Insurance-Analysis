@@ -10,4 +10,4 @@ The Jupyter notebook containing the analysis can be found here: [insurance_analy
 
 ## Full Report
 
-A full report on the findings of the analysis can be found here:[Statistical Analysis of Healthcare Insurance Costs](https://medium.com/@mhugoathalla/statistical-analysis-of-healthcare-insurance-costs-b0af793bdc44)
+A full report on the findings of the analysis can be found here: [Statistical Analysis of Healthcare Insurance Costs](https://medium.com/@mhugoathalla/statistical-analysis-of-healthcare-insurance-costs-b0af793bdc44)
